@@ -1,0 +1,3 @@
+"npm init -y" : "cria o arquivo package.json"
+
+"npm i --save-dev webpack@1.14.0 webpack-dev-server@1.16.2" : "adiciona os 2 modulos como requisitos para o projeto e os salva com dev"
